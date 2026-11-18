@@ -1,3 +1,9 @@
+DATE:- 18/11/2026
+
+NAME:- PULLA KAVYA
+
+REG NO:- 212225240110
+
 # 3a-Echo-Client-and-Server-using-TCP-Sockets
 
 ## AIM
