@@ -61,5 +61,6 @@ while True:
 ## CILENT
 <img width="895" height="342" alt="image" src="https://github.com/user-attachments/assets/b4d07823-3998-4bcb-a4db-a6844bad034e" />
 
-RESULT
+## RESULT
+
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links was successfully created and executed.
